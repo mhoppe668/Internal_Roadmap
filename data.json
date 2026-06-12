@@ -26,13 +26,13 @@
         "e": "2027-12-31",
         "status": "On track",
         "desc": "",
-        "progress": 7,
+        "progress": 61,
         "goals": []
       },
       {
         "name": "Agility Web: Procure to Pay - Phase 1",
         "s": "2026-12-15",
-        "e": "2027-12-15",
+        "e": "2027-12-31",
         "status": "Some progress",
         "desc": "PROJECT This project converts top priority windows in the Procure-to-Pay workstream from legacy Agility desktop windows to the Agility Web framework. The Procure-to-Pay workstream is the end‑to‑end business process used to acquire goods and services, from purchase requisition and supplier ordering through receipt, invoicing, and payment. Phase 1: Includes windows like Purchase Orders, Receiving, and AP Invoice Entry. OUTCOME 100% of windows in Phase 1 are converted SUCCESS CRITERIA IMPACT CUSTOMER IMPACT: All Agility customers DMSI IMPACT: Reduced RDP expense, Future-forward architecture, Modern application to enable future growth RISKS MANAGED: TARGET CUSTOMERS All Agility customers TECHNICAL DEPENDENCIES RECOMMENDED INVESTMENT MARKET DESIRABILITY DATE",
         "progress": 2,
@@ -43,7 +43,7 @@
       {
         "name": "Agility Web: Procure to Pay - Phase 2",
         "s": "2026-12-15",
-        "e": "2027-12-15",
+        "e": "2027-12-31",
         "status": "Some progress",
         "desc": "PROJECT This project converts top priority windows in the Procure-to-Pay workstream from legacy Agility desktop windows to the Agility Web framework. The Procure-to-Pay workstream is the end‑to‑end business process used to acquire goods and services, from purchase requisition and supplier ordering through receipt, invoicing, and payment. Phase 2: Includes windows like Supplier Maintenance. It also includes lessor-used functions in Phase 1 such as Split PO or Adjust Costs. OUTCOME 100% of windows in Phase 1 are converted SUCCESS CRITERIA IMPACT CUSTOMER IMPACT: All Agility customers DMSI IMPACT: Reduced RDP expense, Future-forward architecture, Modern application to enable future growth RISKS MANAGED: TARGET CUSTOMERS All Agility customers TECHNICAL DEPENDENCIES RECOMMENDED INVESTMENT MARKET DESIRABILITY DATE",
         "progress": 1,
@@ -52,7 +52,7 @@
       {
         "name": "Agility Web: Procure to Pay - Phase 3",
         "s": "2026-12-15",
-        "e": "2027-12-15",
+        "e": "2027-12-31",
         "status": "Some progress",
         "desc": "PROJECT This project converts top priority windows in the Procure-to-Pay workstream from legacy Agility desktop windows to the Agility Web framework. The Procure-to-Pay workstream is the end‑to‑end business process used to acquire goods and services, from purchase requisition and supplier ordering through receipt, invoicing, and payment. Phase 3: Includes windows such as Supplier Discount Maintenance and Purchase Order Import. Also includes lessor used functions of windows converted in Phases 1 & 2. OUTCOME 100% of windows in Phase 1 are converted SUCCESS CRITERIA IMPACT CUSTOMER IMPACT: All Agility customers DMSI IMPACT: Reduced RDP expense, Future-forward architecture, Modern application to enable future growth RISKS MANAGED: TARGET CUSTOMERS All Agility customers TECHNICAL DEPENDENCIES RECOMMENDED INVESTMENT MARKET DESIRABILITY DATE",
         "progress": 1,
@@ -64,7 +64,7 @@
         "e": "2027-06-30",
         "status": "Some progress",
         "desc": "PROJECT This project converts lower priority windows in the Quote-to-Cash workstream from legacy Agility desktop windows to the Agility Web framework. The Quote‑to‑Cash workstream is the end‑to‑end business process that spans from generating a customer quote through order fulfillment, invoicing, and payment collection. Phase 3: Includes windows like OrderPad, Commission Viewer, Price/Discount Maintenance, and Project Management. It also includes lessor-used functions of Phase 1 & 2 windows. OUTCOME 100% of windows in Phase 3 are converted SUCCESS CRITERIA 70%+ of users are moved off of the RDP environment IMPACT CUSTOMER IMPACT: All Agility customers DMSI IMPACT: Reduced RDP expense, Future-forward architecture, Modern application to enable future growth RISKS MANAGED: TARGET CUSTOMERS All Agility customers TECHNICAL DEPENDENCIES RECOMMENDED INVESTMENT MARKET DESIRABILITY DATE",
-        "progress": 22,
+        "progress": 30,
         "goals": [
           "A2W Window Completion, Rollout and Deprecation"
         ]
@@ -75,7 +75,7 @@
         "e": "2027-03-31",
         "status": "On track",
         "desc": "PROJECT This project converts top priority windows in the Quote-to-Cash workstream from legacy Agility desktop windows to the Agility Web framework. The Quote‑to‑Cash workstream is the end‑to‑end business process that spans from generating a customer quote through order fulfillment, invoicing, and payment collection. Phase 1: Includes windows like Sales Order Entry, Quote Entry, Credit Memo Entry, Stock Status, Customer Information, Staging Status, Credit Approval, and Suggested POs. Phase 2: Includes windows like Dispatch Entry, Reman Order Entry, and Cash Application. It also includes lessor-used functions of Phase 1 windows. For example, Sighting Information in Sales Order Entry, and Specify Storage in Credit Memo Entry. OUTCOME 100% of windows in Phase 1 & Phase 2 are converted SUCCESS CRITERIA IMPACT CUSTOMER IMPACT: All Agility customers DMSI IMPACT: Reduced RDP expense, Future-forward architecture, Modern application to enable future growth RISKS MANAGED: TARGET CUSTOMERS All Agility customers TECHNICAL DEPENDENCIES RECOMMENDED INVESTMENT MARKET DESIRABILITY DATE",
-        "progress": 64,
+        "progress": 66,
         "goals": [
           "A2W Window Completion, Rollout and Deprecation"
         ]
@@ -93,7 +93,7 @@
         "name": "AI Agents",
         "s": "2026-05-01",
         "e": "2026-12-31",
-        "status": "Not started",
+        "status": "Some progress",
         "desc": "",
         "progress": 0,
         "goals": [
@@ -107,16 +107,25 @@
         "e": "2026-12-31",
         "status": "On track",
         "desc": "",
-        "progress": 25,
+        "progress": 45,
         "goals": [
           "Strategic Customer Success"
         ]
       },
       {
+        "name": "Client dedicated development 2027",
+        "s": "2027-01-01",
+        "e": "2027-12-31",
+        "status": "Not started",
+        "desc": "",
+        "progress": 0,
+        "goals": []
+      },
+      {
         "name": "Embedded Dashboards",
         "s": "2026-03-01",
         "e": "2026-09-11",
-        "status": "Some progress",
+        "status": "On track",
         "desc": "",
         "progress": 0,
         "goals": [
@@ -127,7 +136,7 @@
         "name": "Integration Platform",
         "s": "2026-05-01",
         "e": "2026-12-31",
-        "status": "Not started",
+        "status": "Some progress",
         "desc": "",
         "progress": 0,
         "goals": [
@@ -140,10 +149,19 @@
         "e": "2026-12-31",
         "status": "On track",
         "desc": "",
-        "progress": 10,
+        "progress": 35,
         "goals": [
           "Strategic Customer Success"
         ]
+      },
+      {
+        "name": "Sponsored Development (billable) 2027",
+        "s": "2027-01-01",
+        "e": "2027-12-31",
+        "status": "Not started",
+        "desc": "",
+        "progress": 0,
+        "goals": []
       }
     ]
   }
