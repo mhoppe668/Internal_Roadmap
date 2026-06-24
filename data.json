@@ -21,7 +21,7 @@
         "goals": []
       },
       {
-        "name": "Agility Web: Platform",
+        "name": "Agility Web: Platform & General",
         "s": "2025-01-02",
         "e": "2027-12-31",
         "status": "On track",
@@ -44,7 +44,7 @@
         "name": "Agility Web: Procure to Pay - Phase 2",
         "s": "2026-12-15",
         "e": "2027-12-31",
-        "status": "Some progress",
+        "status": "Not started",
         "desc": "PROJECT This project converts top priority windows in the Procure-to-Pay workstream from legacy Agility desktop windows to the Agility Web framework. The Procure-to-Pay workstream is the end‑to‑end business process used to acquire goods and services, from purchase requisition and supplier ordering through receipt, invoicing, and payment. Phase 2: Includes windows like Supplier Maintenance. It also includes lessor-used functions in Phase 1 such as Split PO or Adjust Costs. OUTCOME 100% of windows in Phase 1 are converted SUCCESS CRITERIA IMPACT CUSTOMER IMPACT: All Agility customers DMSI IMPACT: Reduced RDP expense, Future-forward architecture, Modern application to enable future growth RISKS MANAGED: TARGET CUSTOMERS All Agility customers TECHNICAL DEPENDENCIES RECOMMENDED INVESTMENT MARKET DESIRABILITY DATE",
         "progress": 1,
         "goals": []
@@ -53,7 +53,7 @@
         "name": "Agility Web: Procure to Pay - Phase 3",
         "s": "2026-12-15",
         "e": "2027-12-31",
-        "status": "Some progress",
+        "status": "Not started",
         "desc": "PROJECT This project converts top priority windows in the Procure-to-Pay workstream from legacy Agility desktop windows to the Agility Web framework. The Procure-to-Pay workstream is the end‑to‑end business process used to acquire goods and services, from purchase requisition and supplier ordering through receipt, invoicing, and payment. Phase 3: Includes windows such as Supplier Discount Maintenance and Purchase Order Import. Also includes lessor used functions of windows converted in Phases 1 & 2. OUTCOME 100% of windows in Phase 1 are converted SUCCESS CRITERIA IMPACT CUSTOMER IMPACT: All Agility customers DMSI IMPACT: Reduced RDP expense, Future-forward architecture, Modern application to enable future growth RISKS MANAGED: TARGET CUSTOMERS All Agility customers TECHNICAL DEPENDENCIES RECOMMENDED INVESTMENT MARKET DESIRABILITY DATE",
         "progress": 1,
         "goals": []
